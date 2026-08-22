@@ -14,7 +14,11 @@ export default function Education() {
             <div className="timeline-dot" />
             <div>
               <h3>{item.degree}</h3>
-              {item.school ? <p className="timeline-company">{item.school}</p> : null}
+              {item.school ? (
+                <a className="timeline-company" href={item.link} target="_blank" rel="noreferrer">
+                  {item.school}
+                </a>
+              ) : null}
               <p>{item.detail}</p>
             </div>
           </motion.article>

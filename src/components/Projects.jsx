@@ -22,10 +22,10 @@ export default function Projects() {
                 ))}
               </div>
               <div className="project-actions">
-                <a className="btn btn-primary" href={project.links.demo}>
+                <a className="btn btn-primary" href={project.links.demo} target="_blank" rel="noreferrer">
                   Live Demo <ArrowUpRight size={16} />
                 </a>
-                <a className="btn btn-secondary" href={project.links.github}>
+                <a className="btn btn-secondary" href={project.links.github} target="_blank" rel="noreferrer">
                   <Github size={16} /> GitHub
                 </a>
               </div>
