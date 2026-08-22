@@ -2,7 +2,7 @@ export const personal = {
   name: 'Bitu Kumar',
   role: 'Full Stack Developer',
   tagline: 'Building scalable and modern web applications with React, Node.js, Express.js, and MongoDB.',
-  about: 'I am a passionate Full Stack Developer currently pursuing B.Tech in Computer Science and Engineering. I enjoy solving real-world problems and building responsive, user-friendly web applications.',
+  about: 'I am a passionate Full Stack Developer and a B.Tech Computer Science and Engineering graduate. I enjoy solving real-world problems and building responsive, user-friendly, and scalable web applications using modern technologies.',
   email: 'bitukumar2233raj@gmail.com',
   phone: '+91-8862856815',
   github: 'https://github.com/cs-Bitukumar',
@@ -51,16 +51,19 @@ export const education = [
     degree: 'B.Tech Computer Science & Engineering',
     school: 'Global Group of Institutes',
     detail: 'CGPA: 7.4',
+    link: 'https://www.globalinstitutes.edu.in/',
   },
   {
     degree: '10th',
     school: 'S.G.K.M.R.K.G.P+2 High School katkenwa',
     detail: '81.4%',
+    link: '#',
   },
   {
     degree: '12th',
     school: 'S.G.K.M.R.K.G.P+2 High School katkenwa',
     detail: '60%',
+    link: '#',
   },
 ];
 
