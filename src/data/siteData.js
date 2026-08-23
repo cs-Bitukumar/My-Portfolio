@@ -6,7 +6,7 @@ export const personal = {
   email: 'bitukumar2233raj@gmail.com',
   phone: '+91-8862856815',
   github: 'https://github.com/cs-Bitukumar',
-  resumeUrl: '#',
+  resumeUrl: 'https://drive.google.com/file/d/19_JvME3nsS0FQVTVMcx3Vv3UiNNzjMt9/view?usp=sharing',
 };
 
 export const skills = {
