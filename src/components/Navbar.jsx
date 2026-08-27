@@ -49,7 +49,7 @@ export default function Navbar() {
         ))}
       </nav>
 
-      <a className="btn btn-primary resume-btn" href={personal.resumeUrl}>
+      <a className="btn btn-primary resume-btn" href={personal.resumeUrl} target="_blank" rel="noreferrer">
         <Download size={16} /> Resume
       </a>
 

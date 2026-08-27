@@ -30,7 +30,7 @@ export const projects = [
     title: 'SmartExam',
     description: 'A full-stack exam platform with authentication, exam management, student dashboard, and result tracking.',
     tech: ['React', 'Node.js', 'Express.js', 'MongoDB'],
-    links: { demo: '#', github: '#' },
+    links: { demo: 'https://smartexams-3gax.onrender.com', github: 'https://github.com/cs-Bitukumar/SmartExams' },
   },
   {
     title: 'SecureVote',
@@ -42,7 +42,7 @@ export const projects = [
     title: 'Currency-Convertor',
     description: 'A responsive currency conversion tool built from scratch with HTML, CSS, and JavaScript.',
     tech: ['HTML', 'CSS', 'JavaScript'],
-    links: { demo: 'https://cs-bitukumar.github.io/Currency-Convertor', github: '#' },
+    links: { demo: 'https://cs-bitukumar.github.io/Currency-Convertor', github: 'https://github.com/cs-Bitukumar/Currency-Convertor' },
   },
 ];
 
