@@ -21,7 +21,7 @@ export default function Hero() {
           </div>
           <p className="hero-description">{personal.tagline}</p>
           <div className="hero-actions">
-            <a className="btn btn-primary" href={personal.resumeUrl}>
+            <a className="btn btn-primary" href={personal.resumeUrl} target="_blank" rel="noreferrer">
               <Download size={16} /> Download Resume
             </a>
             <a className="btn btn-secondary" href="#projects">
