@@ -44,6 +44,12 @@ export const projects = [
     tech: ['HTML', 'CSS', 'JavaScript'],
     links: { demo: 'https://cs-bitukumar.github.io/Currency-Convertor', github: 'https://github.com/cs-Bitukumar/Currency-Convertor' },
   },
+  {
+    title: 'BKR Games',
+    description: 'A full-stack gaming platform with real-time Ludo, betting, spinner, authentication, wallet, and game management.',
+    tech: ['React', 'Node.js', 'Express.js', 'MongoDB'],
+    links: { demo: 'https://bkr-9r8.pages.dev', github: 'https://github.com/cs-Bitukumar/SmartExams' },
+  },
 ];
 
 export const education = [
